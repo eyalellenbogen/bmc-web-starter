@@ -1,0 +1,14 @@
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+
+# Dependency directories
+node_modules
+jspm_packages
+
+**/*.css
+**/*.js
