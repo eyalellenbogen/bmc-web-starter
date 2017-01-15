@@ -11,4 +11,3 @@ node_modules
 jspm_packages
 
 **/*.css
-**/*.js
